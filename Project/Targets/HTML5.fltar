@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="WebHelp2"
+  Destinations=""
+  ConditionTagExpression="include[General.Html] exclude[Dimension.UAE or General.Deprecated or General.DocTeam or General.Draft or General.PDF] "
+  MasterToc="/Project/TOCs/Master.fltoc"
+  PatchHeadingLevels="true"
+  MasterPageLayout="/Content/Resources/PageLayout/Default.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  GetLatestBeforeCompile="false"
+  DefaultUrl="/Content/info/Home_OBS.htm"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    ShowUsedBookmarks="false"
+    PageMode="UseNone"
+    TitleBar="FileName" />
+  <DocumentProperties
+    Author="" />
+</CatapultTarget>

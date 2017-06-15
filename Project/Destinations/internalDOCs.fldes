@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="L:\VEC"
+  Port="22"
+  ViewUrl="\\corp-app01\vecdocs"
+  Type="file"
+  SftpServerValidation="validation-none"
+  SftpAuthentication="authentication-password"
+  UploadLogFile="false"></CatapultDestination>

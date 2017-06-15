@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Serpent"
+    Comment="Curse of the Serpent's Eye"
+    OriginalName="Serpent" />
+  <ConditionTag
+    BackgroundColor="#b22222"
+    Name="Ghost"
+    Comment="Ghostbusters" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="UAE"
+    Comment="UAE (dubai)-specific instructions (for exampe, add another language for the kiosk"
+    OriginalName="UAE" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="non-UAE"
+    Comment="" />
+</CatapultConditionTagSet>

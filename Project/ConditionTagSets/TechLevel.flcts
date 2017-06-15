@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Level3"
+    Comment="Steve, Nick and Josh H only"
+    OriginalName="Level3" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Level2"
+    Comment="Andy, some partners"
+    OriginalName="Level2" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Level1"
+    Comment="Techs (black shirts)"
+    OriginalName="Level1" />
+</CatapultConditionTagSet>

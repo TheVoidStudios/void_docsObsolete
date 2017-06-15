@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginBottom">33px</Property>
+          <Property
+            Name="MarginRight">-4px</Property>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Toolbar">
+          <Properties>
+            <Property
+              Name="Display">none</Property>
+          </Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="ToolbarItem">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #000000</Property>
+          <Property
+            Name="BorderRight">solid 1px #000000</Property>
+          <Property
+            Name="BorderBottom">solid 1px #000000</Property>
+          <Property
+            Name="BorderLeft">solid 1px #000000</Property>
+          <Property
+            Name="BackgroundColor">#000000</Property>
+          <Property
+            Name="BackgroundGradient">vertical transparent transparent</Property>
+          <Property
+            Name="BoxShadowVShadow">0px</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="CollapseAll">
+            <Properties>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="CurrentTopicIndex">
+            <Properties>
+              <Property
+                Name="Color">#008000</Property>
+              <Property
+                Name="TextShadowVShadow">0px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic|Separator|Print|Separator|RemoveHighlight" />
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Toolbar">
+            <Properties>
+              <Property
+                Name="MarginBottom">33px</Property>
+              <Property
+                Name="MarginRight">-4px</Property>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Medium
+            Name="Mobile">
+            <Style
+              Name="Toolbar">
+              <Properties>
+                <Property
+                  Name="Display">none</Property>
+              </Properties>
+            </Style>
+          </Medium>
+          <Style
+            Name="ToolbarItem">
+            <Properties>
+              <Property
+                Name="BorderTop">solid 1px #000000</Property>
+              <Property
+                Name="BorderRight">solid 1px #000000</Property>
+              <Property
+                Name="BorderBottom">solid 1px #000000</Property>
+              <Property
+                Name="BorderLeft">solid 1px #000000</Property>
+              <Property
+                Name="BackgroundColor">#000000</Property>
+              <Property
+                Name="BackgroundGradient">vertical transparent transparent</Property>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+            </Properties>
+            <Classes>
+              <StyleClass
+                Name="CollapseAll">
+                <Properties>
+                  <Property
+                    Name="BoxShadowVShadow">0px</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="CurrentTopicIndex">
+                <Properties>
+                  <Property
+                    Name="Color">#008000</Property>
+                  <Property
+                    Name="TextShadowVShadow">0px</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

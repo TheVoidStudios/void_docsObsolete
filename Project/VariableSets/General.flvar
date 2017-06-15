@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="The VOID">The VOID</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T16:28:00.0099499-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Backtop"
+    Comment="aka the machine in the RIG"
+    EvaluatedDefinition="Backtop">Backtop</Variable>
+  <Variable
+    Name="Dimension"
+    Comment="Designates the &quot;story&quot; experience; i.e. Ghost Busters"
+    EvaluatedDefinition="Dimension">Dimension</Variable>
+  <Variable
+    Name="Oculus"
+    Comment="Manufacturer of the VR goggles"
+    EvaluatedDefinition="Oculus">Oculus</Variable>
+  <Variable
+    Name="Haptic"
+    Comment="Special effects board"
+    EvaluatedDefinition="Haptic">Haptic</Variable>
+  <Variable
+    Name="WindowsServer"
+    Comment="Windows Server version that needs to be installed on the ADM server"
+    EvaluatedDefinition="2012 R2">2012 R2</Variable>
+  <Variable
+    Name="Windows"
+    Comment="Windows version installed on the DIM, CAP and SPC servers"
+    EvaluatedDefinition="10">10</Variable>
+  <Variable
+    Name="Draft"
+    Comment=""
+    EvaluatedDefinition="DRAFT">DRAFT</Variable>
+</CatapultVariableSet>

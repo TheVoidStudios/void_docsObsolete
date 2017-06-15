@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HMD Passive Tracking"
+    Link="/Content/HMD/HMD_passive.htm">
+    <TocEntry
+      Title="DK2"
+      Link="/Content/HMD/DK2/dk2_passive.htm">
+      <TocEntry
+        Title="Install the Oculus software (DK2)"
+        Link="/Content/Backtop/980/oculus_dk2.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Connect the HMD to the RIG (DK2)"
+        Link="/Content/HMD/DK2/connect.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Remove the Front Panel (DK2)"
+        Link="/Content/HMD/DK2/front_panel_dk2.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Remove a Side Panel (DK2)"
+        Link="/Content/HMD/DK2/side_panel_dk2.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Remove the Back Panel (DK2)"
+        Link="/Content/HMD/DK2/back_plate_dk2.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Add the Passive Marker Constellation"
+      Link="/Content/HMD/constellation.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Kiosk"
+    Link="/Content/Kiosk/kiosk.htm">
+    <TocEntry
+      Title="Upgrade to V2.5.x"
+      Link="/Content/Kiosk/Upgrade_2.5/kiosk_upgrade2.5.htm">
+      <TocEntry
+        Title="Uninstall SocketScan Keyboard Wedge"
+        Link="/Content/Kiosk/Upgrade_2.5/socketScan_uninstall.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Unpair the Scanner"
+        Link="/Content/Kiosk/Upgrade_2.5/kiosk_scannerUnpair.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Upgrade the Kiosk (WizardApp) Software"
+        Link="/Content/Kiosk/Upgrade_2.5/kiosk_softwareUpgrade.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Configure the Kiosk for the Hacker's Keyboard"
+        Link="/Content/Kiosk/Upgrade_2.5/keyboard_config.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Reset the Scanner"
+        Link="/Content/Kiosk/Upgrade_2.5/scanner_reset.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Add a Keyboard Language"
+        Link="/Content/Kiosk/Upgrade_2.5/keyboard_language.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

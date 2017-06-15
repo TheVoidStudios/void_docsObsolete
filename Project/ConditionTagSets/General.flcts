@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="DocTeam"
+    Comment="Notes to doc team members; excluded from output"
+    OriginalName="DocTeam" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="PDF"
+    Comment="PDF only"
+    OriginalName="PDF" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="Html"
+    Comment="HTML only" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Draft"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Deprecated"
+    Comment="Old procedure; saved for historical purposes" />
+</CatapultConditionTagSet>
