@@ -5,37 +5,36 @@
     Title="HMD Passive Tracking"
     Link="/Content/HMD/HMD_passive.htm">
     <TocEntry
-      Title="Add the Passive Marker Constellation"
-      Link="/Content/HMD/Passive Tracking/Passive Tracking/constellation.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HMD/constellation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="CV1">
+      Title="CV1"
+      Link="/Content/HMD/CV1/cv1_passive.htm">
       <TocEntry
-        Title="New Entry" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/CV1/front_panel.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/CV1/back_plate.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="DK2"
       Link="/Content/HMD/DK2/dk2_passive.htm">
       <TocEntry
-        Title="Install the Oculus software (DK2)"
-        Link="/Content/Backtop/980/oculus_dk2.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Backtop/980/oculus_dk2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Connect the HMD to the RIG (DK2)"
-        Link="/Content/HMD/DK2/connect.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/DK2/connect.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Remove the Front Panel (DK2)"
-        Link="/Content/HMD/DK2/front_panel_dk2.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/DK2/front_panel_dk2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Remove a Side Panel (DK2)"
-        Link="/Content/HMD/DK2/side_panel_dk2.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/DK2/side_panel_dk2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Remove the Back Panel (DK2)"
-        Link="/Content/HMD/DK2/back_plate_dk2.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HMD/DK2/back_plate_dk2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry
