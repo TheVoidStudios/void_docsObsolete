@@ -5,6 +5,15 @@
     Title="HMD Passive Tracking"
     Link="/Content/HMD/HMD_passive.htm">
     <TocEntry
+      Title="Add the Passive Marker Constellation"
+      Link="/Content/HMD/Passive Tracking/Passive Tracking/constellation.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CV1">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
       Title="DK2"
       Link="/Content/HMD/DK2/dk2_passive.htm">
       <TocEntry
@@ -28,10 +37,6 @@
         Link="/Content/HMD/DK2/back_plate_dk2.htm"
         MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
-    <TocEntry
-      Title="Add the Passive Marker Constellation"
-      Link="/Content/HMD/constellation.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Kiosk"
