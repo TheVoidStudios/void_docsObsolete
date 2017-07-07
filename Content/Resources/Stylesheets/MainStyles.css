@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -84,11 +84,11 @@ div.noteIT
 	border: solid 1px #0000ff;
 	background-color: transparent;
 	color: #000000;
-	background-image: url('../../../../technical/Content/Resources/Images/note.png');
 	text-indent: 15px;
 	margin-top: 10px;
 	padding-top: 10px;
 	background-origin: inherit;
+	background-image: url('../Images/note.png');
 }
 
 .noteInDiv
@@ -99,7 +99,7 @@ div.noteIT
 div.quotation
 {
 	background-color: #e1e1e1;
-	background-image: url('../../../../technical/Content/Resources/Images/QuotationMark.png');
+	background-image: url('../Images/QuotationMark.png');
 	background-repeat: no-repeat;
 	background-position: top left;
 	border-color: #b3b3b3;
@@ -198,15 +198,15 @@ MadCap|dropDown
 {
 	margin-bottom: 6px;
 	margin-top: 6px;
-	mc-closed-image: url('../../../../technical/Content/Resources/Images/DropDownClosed.png');
-	mc-open-image: url('../../../../technical/Content/Resources/Images/DropDownOpen.png');
+	mc-closed-image: url('../Images/DropDownClosed.png');
+	mc-open-image: url('../Images/DropDownOpen.png');
 }
 
 MadCap|dropDown.SecondLevel
 {
 	margin-left: 10px;
-	mc-closed-image: url('../../../../technical/Content/Resources/Images/DropDownClosedSecondLevel.png');
-	mc-open-image: url('../../../../technical/Content/Resources/Images/DropDownOpenSecondLevel.png');
+	mc-closed-image: url('../Images/DropDownClosedSecondLevel.png');
+	mc-open-image: url('../Images/DropDownOpenSecondLevel.png');
 }
 
 MadCap|dropDownBody
@@ -381,7 +381,7 @@ ul
 
 ul ul
 {
-	list-style-image: url('../../../../technical/Content/Resources/Images/Bullet2.png');
+	list-style-image: url('../Images/Bullet2.png');
 }
 
 html.templateTopic div.sideContent
@@ -393,7 +393,7 @@ p.note
 {
 	color: #000000;
 	background-color: transparent;
-	background-image: url('../../../../technical/Content/Resources/Images/note.png');
+	background-image: url('../Images/note.png');
 	background-repeat: no-repeat;
 	background-attachment: initial;
 	background-origin: border-box;
@@ -410,7 +410,7 @@ p.warning
 	background-color: transparent;
 	background-repeat: no-repeat;
 	background-attachment: initial;
-	background-image: url('../../../../technical/Content/Resources/Images/warning.png');
+	background-image: url('../Images/warning.png');
 	height: 50;
 	min-height: 50px;
 	padding-left: 50px;
@@ -539,7 +539,6 @@ div.warningIT
 	margin-top: 10px;
 	padding-top: 10px;
 	background-origin: inherit;
-	background-image: url('../../../../technical/Content/Resources/Images/warning.png');
+	background-image: url('../Images/warning.png');
 	border: solid 1px #ff0000;
 }
-
