@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="10" MadCap:lastHeight="1010" MadCap:lastWidth="1077" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Add a Blaster Rigid Body in Motive (Passive Tracking)</h1>
+        <div class="noteIT">This process <i>requires</i> two people; one working with the Motive software and the other to go hold the blaster in shooting position on the stage.</div>
+        <ol>
+            <li>Have a person hold the blaster in shooting position on the stage, keeping the blaster level and aiming down the Z-axis.</li>
+            <li>Log in to the Capture Server and launch the Motive software.</li>
+            <li>Locate the markers for the blaster.</li>
+            <li>Select the markers as a group.</li>
+            <li>Right-click, select <b>Rigid Body</b> and then select <b>Create From Selected Markers</b>.
+        <p>The blaster now displays as a rigid body and it is added as an Asset in the Project menu with a default name.</p></li>
+            <li>Save this blaster according to the naming convention.<ul><li>GUN2##; where # is the last two numbers of the blaster's ID number (shown in the LCD or under the pump). </li></ul></li>
+            <li>Set the pivot point.
+					<ol><li>Physically add a temporary marker on the blaster so that it is on the top of the blaster close to the LCD.
+				<div class="image"><p>For example:</p><p><img src="../Resources/Images/Motive/gun_pivotPassive.png" class="examples" title="click to enlarge" /></p></div></li><li>Add the pivot point in Motive.<ol><li>Press and hold Ctrl and then select the temporary maker.</li><li> Right-click, select <b>Rigid Body</b> and then select <b>Set Pivot Point to Selected Marker</b>.</li></ol></li><li>Physically remove the temporary marker from the blaster.</li></ol></li>
+            <li>Specify the rigid body properties.<ol><li>Locate the information on this rigid body in the Project tab.</li><li>Select Properties, and specify the following:<ul><li>Deflection: 10</li><li>Tracking Algorithm: Marker-based</li><li>Enhance Performance: True</li><li>Share Markers: False</li><li>Min Marker Count: 4</li><li>User ID: the numerical number assigned to the blaster's name (for example, 201) </li></ul></li></ol></li>
+            <li>Save this blaster rigid body.</li>
+            <li>Repeat this procedure for each blaster used on this stage.</li>
+        </ol>
+    </body>
+</html>

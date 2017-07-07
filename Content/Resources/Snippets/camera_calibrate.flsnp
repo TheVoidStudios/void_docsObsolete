@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="972" MadCap:lastWidth="1051">
+    <body>
+        <p class="docTeam">Heading should be 'Finish Calibration'.</p>
+        <ol>
+            <li>In the Motive software, in the Camera Calibration area, click <b>Calibrate</b>.
+			<ul><li>The status of the calibration displays.<div class="image"><p>For example:</p><p><img src="../Images/Motive/camera_calibrate.png" class="examples" title="click to enlarge" /></p></div></li><li>The Result column will change to a bar with colored blocks to indicate the results. For example, a single red block indicates a poor calibration; whereas, six green blocks indicate an exceptional condition.</li><li>The requirements to meet are:
+							<ul><li>Overall Result: Exceptional</li><li>Wand Error: 0.2 or lower</li></ul><div class="image"><p>For example:</p><p><img src="../Images/Motive/camera_exceptional.png" class="examples" title="click to enlarge" /></p></div></li></ul></li>
+            <li>When the calibration has completed the Calibration Result Report window displays.
+					<div class="image"><p>For example:</p><p><img src="../Images/Motive/camera_report.png" class="examples" title="click to enlarge" /></p></div></li>
+            <li>Do <i>one</i> of the following:
+				<ul><li>If the requirements are <i>not</i> met, do the following: <ol><li>On Calibration Result Report window, press <b>Cancel</b>.</li><li>In the Camera Calibration window, click <b>Reset</b>.<div class="image"><p>For example:</p><p><img src="../Images/Motive/camera_calibrateReset.png" class="examples" title="click to enlarge" /></p></div></li><li>Repeat the steps to perform the wanding and finish the calibration as needed until the requirements are met.</li></ol></li><li>If the stage requirements <i>are</i> met, <ol><li>On the Calibration Result Report window, press <b>Apply</b>.</li><li>Save your changes.</li><li>Return the wand to its storage location.</li></ol></li></ul></li>
+        </ol>
+    </body>
+</html>

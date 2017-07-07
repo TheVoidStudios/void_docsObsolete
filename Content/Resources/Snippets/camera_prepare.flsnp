@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="250" MadCap:lastWidth="1060">
+    <body>
+        <p class="docTeam">Heading should be 'Prepare for Camera Calibration'.</p>
+        <ol>
+            <li>Make a backup of your current calibration settings.<ol><li>Locate the 'Motive Daily Backups' folder on the Capture Server's desktop.</li><li>Make a copy of the newest file and place that copy on the desktop (outside of the backups folder).</li></ol></li>
+            <li>Cover any stage component markers (such as moving doors) with a cloth to prevent irregularities with final calculations.</li>
+            <li>Take the calibration wand and place it out of sight of the stage cameras.</li>
+            <li>Have the person who will be doing the wanding confirm that there are no visible reflective surfaces (jewelry, watch, etc)  that would interfere with the camera calibration.</li>
+        </ol>
+    </body>
+</html>

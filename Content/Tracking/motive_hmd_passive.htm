@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="12" MadCap:lastHeight="1524" MadCap:lastWidth="1051" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Add a HMD Rigid Body in Motive (Passive Tracking)</h1>
+        <ol>
+            <li>Place the HMD on the stage so the HMD&#160;is level, right side up and facing down the Z-axis.</li>
+            <li>Log in to the Capture Server and launch the Motive software.</li>
+            <li>Locate the markers for the HMD.</li>
+            <li>Select the markers as a group.</li>
+            <li>Right-click, select <b>Rigid Body</b> and then select <b>Create From Selected Markers</b>.
+
+            <p>The HMD now displays a rigid body and it is added as an Asset in the Project menu with a default name. </p><div class="image"><p>For example:</p><p><img src="../Resources/Images/Motive/hmd_createPassive.png" class="examples" title="click to enlarge" /></p></div></li>
+            <li>Save this HMD rigid body according to the naming convention.<ul><li>HMD1##; where # is the last two numbers of the HMD's serial number. </li></ul></li>
+            <li>Set the pivot point.
+					<div class="noteIT">The pivot point depicts the Z-axis (right between the eyes) of the HMD rigid body.</div><ol><li>Physically add a temporary marker at <i>each</i> end of the visor.<ul><li>First marker (right-side)<div class="image"><p>For example:</p><p><img src="../Resources/Images/Motive/hmd_pivot1Passive.png" class="examples" title="click to enlarge" /></p></div></li><li>Second marker (left-side)<div class="image"><p>For example:</p><p><img src="../Resources/Images/Motive/hmd_pivot2Passive.png" class="examples" title="click to enlarge" /></p></div></li></ul></li><li>Select the first temporary marker (on the right-side of the visor) and then right-click and set it as the pivot point.</li><li>While still selecting the first marker, click the second marker, you will see a white line showing the distance between the two markers. </li><li>Rotate the rigid body's Z-axis and Y-axis to align the white line with the X-axis (red line).<ol><li>In the Project menu, locate the menu for this rigid body and select the Transformation tab. </li><li>In the Rigid Body Orientation area, enter an adjustment value (usually less than a degree) for the Z-axis <i>and</i> the Y-axis.</li><li>Click <b>Apply Rotation</b>.</li><li>In the Perspective View, determine whether further adjustment is needed.<ul><li>If the white line is <i>not</i> aligned with the red line, repeat this procedure to rotate the rigid body.</li><li>If the white line <i>is</i> aligned with the red line, continue to the next step.</li></ul></li></ol></li><li>Determine the pivot point. <ol><li>In the Perspective View, look at the distance measured by the white line and divide that distance in half.</li><li>In the Transformation tab, in the Rigid Body Pivot-Point Translation area, set the X-axis value to the half-way distance.</li><li>Click <b>Apply Translation</b>.</li></ol></li><li>Physically remove the temporary markers from the HMD.</li></ol></li>
+            <li>Specify the rigid body properties. <ol><li>Locate the information on this rigid body in the Project tab.</li><li>Select Properties, and specify the following:<ul><li>Deflection: 10</li><li>Tracking Algorithm: Marker-based</li><li>Enhance Performance: True</li><li>Share Markers: False</li><li>Min Marker Count: 4</li><li>User ID: the numerical number assigned to the HMD's name (for example, 101)</li></ul></li></ol></li>
+            <li>Save this HMD rigid body.</li>
+            <li>Repeat this procedure for each HMD used on this stage.</li>
+        </ol>
+    </body>
+</html>

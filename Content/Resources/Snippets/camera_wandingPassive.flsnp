@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="599" MadCap:lastWidth="1077">
+    <body>
+        <p class="docTeam">Heading should be 'Perform Wanding'.</p>
+        <ol>
+            <li>Have the second person take the calibration wand and go to the stage entrance.</li>
+            <li>When the person is at the stage, click <b>Start Wanding</b> in the Camera Calibration area.</li>
+            <li>The person performing the wanding will:
+	<ol><li>Hold the calibration wand 45 degrees in front of him or her.
+	<p>For example:</p><p><img src="../Images/Motive/wand_passive.png" class="examples" title="click to enlarge" /></p></li><li>Move the wand in a circular motion from approximately 6 inches above the head down to about the torso area.
+			<ul><li>A successful capture is when the camera's light is <i>green</i> everywhere.<p>Be aware that after it is green everywhere once, it will show some blue to indicate it is tracking something. This is normal.</p></li><li>This should be done as quickly as possible.</li><li>The process should create approximately 1,000 samples per camera.</li></ul></li></ol></li>
+        </ol>
+        <div class="noteIT">The Motive software will display the camera capturing in the Perspective View area.</div>
+        <div class="image">
+            <p>For example:</p>
+            <p>
+                <img src="../Images/Motive/camera_capture.png" class="examples" title="click to enlarge" />
+            </p>
+        </div>
+    </body>
+</html>
